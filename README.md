@@ -11,7 +11,7 @@ I'm Ayo, a blockchain enthusiast who loves everything on chain. Learning Solidit
   ![Rust](https://img.shields.io/badge/Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white)
   ![Solidity](https://img.shields.io/badge/Solidity-3776AB?style=for-the-badge&logo=solidity&logoColor=white)
 - **Tools:** 
-  ![Solana](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Solana](https://img.shields.io/badge/Solana-339933?style=for-the-badge&logo=solana&logoColor=white)
   ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=white)
 - **Databases:** 
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
