@@ -18,9 +18,8 @@ I'm Ayo, a blockchain enthusiast who loves everything on chain. Learning Solidit
   ![Postgresql](https://img.shields.io/badge/Postgresql-47A248?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📚 Web3 Blog
-BLOG-POST-LIST:START 
 - [Hashnode](https://oxayomide.hashnode.dev)
- BLOG-POST-LIST:END
+
 ## 📫 How to Reach Me
 - **Twitter:** [@ayo_aluks](https://x.com/ayo_aluks)
 
