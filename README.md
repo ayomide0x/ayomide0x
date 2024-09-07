@@ -3,7 +3,7 @@
 Welcome Anon!
 
 ## 🚀 About Me
-I'm Ayo, a blockchain enthusiast who loves everything on chain. Learning Solidity and sometimes Rust
+I'm Ox, a blockchain enthusiast who loves everything on chain. Learning Solidity and sometimes Rust
 
 ## 🛠️ My Tech Stack/ Technologies
 - **Languages:** 
